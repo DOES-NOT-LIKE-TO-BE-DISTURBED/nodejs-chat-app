@@ -25,3 +25,5 @@ Full Stack Chat Application with SMS configuration.
 `$ npm install`
 `$ npm run dev`
 `$ npm start`
+
+[![Run on Repl.it](https://repl.it/badge/github/cosmicjs/nodejs-chat-app)](https://repl.it/github/cosmicjs/nodejs-chat-app)
